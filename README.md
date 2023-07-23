@@ -1,2 +1,2 @@
-# Python-Project_Data-Cleaning-and-Preprocessing-with-NumPy
+# Python-Project_Data-Preprocessing-with-NumPy
 Data Cleaning and Preprocessing of Loan Data using NumPy
